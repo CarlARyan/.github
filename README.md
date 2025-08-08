@@ -1,0 +1,2 @@
+# .github
+Earn Achievement manually
